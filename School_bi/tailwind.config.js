@@ -38,28 +38,28 @@ export default {
       "winter",
       {
         mytheme: {
-        
-          "primary": "#000000",
-        
-          "secondary": "#e9498c",
-        
+          
+          "primary": "#2563eb",
+                   
+          "secondary": "#eab308",
+                   
           "accent": "#fff133",
-        
+                   
           "neutral": "#1a1a1a",
-        
+                   
           "base-100": "#ffffff",
-        
+                   
           "info": "#4aa8bf",
-        
-          "success": "#81328f",
-        
+                   
+          "success": "#84cc16",
+                   
           "warning": "#ef8234",
-        
+                   
           "error": "#ea4034",
-        },
-      },
-    ],
-  },
+                   },
+                 },
+               ],
+             },
   plugins: [require("daisyui")],
 }
 
