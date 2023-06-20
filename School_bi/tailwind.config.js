@@ -56,10 +56,10 @@ export default {
           "warning": "#ef8234",
                    
           "error": "#ea4034",
-                   },
-                 },
-               ],
-             },
+         },
+       },
+      ],
+     },
   plugins: [require("daisyui")],
 }
 
